@@ -1,8 +1,8 @@
 {
-  "base_url": "https://server:50000/b1s/v1",
-  "company_db": "SBO_SAP",
-  "username": "MANAGER",
-  "password": "",
-  "bpl_id": "01",
-  "lote_size": "50"
+  "base_url": "https://10.241.155.8:50000/b1s/v1",
+  "company_db": "SBO_GLOBO_QAS",
+  "username": "INT002",
+  "password": "T3podjgzeDE=",
+  "bpl_id": "42",
+  "lote_size": "100"
 }
