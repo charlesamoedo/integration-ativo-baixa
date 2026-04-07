@@ -1,0 +1,41 @@
+{
+  // ── Editor ──────────────────────────────────
+  "editor.fontSize": 13,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.scrollBeyondLastLine": false,
+  "editor.formatOnSave": true,
+
+  // ── Python ──────────────────────────────────
+  "python.languageServer": "Pylance",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.formatOnSave": true
+  },
+
+  // ── Explorer ────────────────────────────────
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "type",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/*.spec": false
+  },
+
+  // ── Terminal ────────────────────────────────
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.fontSize": 12,
+
+  // ── Layout ──────────────────────────────────
+  "workbench.panel.defaultLocation": "bottom",
+  "workbench.editor.showTabs": "multiple",
+  "workbench.tree.indent": 16,
+  "breadcrumbs.enabled": true
+}

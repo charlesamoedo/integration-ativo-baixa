@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.pylance",
+    "ms-python.autopep8",
+    "ms-python.vscode-pylance",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "eamodio.gitlens",
+    "mechatroner.rainbow-csv"
+  ]
+}
